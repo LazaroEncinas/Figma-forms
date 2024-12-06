@@ -1,0 +1,32 @@
+.page {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.form {
+    display: flex;
+}
+
+.form__front {
+
+}
+
+.form__front-image {
+    width: 50%;
+    background-color: #e0f2f1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form__container {
+
+}
+
+.form__admin {
+
+}
